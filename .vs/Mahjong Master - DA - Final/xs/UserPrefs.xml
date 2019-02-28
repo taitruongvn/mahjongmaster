@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{42A9BA6F-CBCC-C8AD-5A04-D44F7965E18D}|">
+  <MonoDevelop.Ide.ItemProperties.Mahjong_220Master_220-_220DA_220-_220Final PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GamePlayScripts/GameScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GamePlayScripts/GamePlay.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GamePlayScripts/GameScript.cs" Line="107" Column="85" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
